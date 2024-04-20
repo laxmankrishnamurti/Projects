@@ -1,2 +1,2 @@
-# My-Projects
-A collection of my all projects
+## School Project
+[lmceduhub.in](https://lmc-lilac.vercel.app/)
