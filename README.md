@@ -1,2 +1,2 @@
 ## School Project
-[lmcSchool](https://lmc-lilac.vercel.app/)
+[lmcSchool](https://www.lmceduhub.in/)
