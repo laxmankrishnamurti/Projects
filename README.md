@@ -1,2 +1,2 @@
 ## School Project
-[lmcSchool](https://www.lmceduhub.in/)
+Fully-functional :-  [lmcSchool](https://www.lmceduhub.in/)
