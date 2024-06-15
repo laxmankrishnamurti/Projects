@@ -12,3 +12,5 @@ Fully-functional :-  [lmcSchool](https://www.lmceduhub.in/)
   - Note :- Both frontend and Backend are deployed on different-different platforms.
   - Frontend :- On Vercel
   - Backend :- On AWS-ec2 instance (Nginx as a Proxy server)
+
+Note :- This website is hosted on AWS-ec2 instance under free-tier. It will keep hosted until free-tier will not expire.  (Haaaaaaaaaaaaaa........)
