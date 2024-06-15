@@ -9,6 +9,6 @@ Fully-functional :-  [lmcSchool](https://www.lmceduhub.in/)
   - Database :- MongoDB
 
 - Deployment details ::
-  - Note :- Both frontend and Backend are deployed on different-different platforms
-  - Frontend :- Vercel
+  - Note :- Both frontend and Backend are deployed on different-different platforms.
+  - Frontend :- On Vercel
   - Backend :- On AWS-ec2 instance (Nginx as a Proxy server)
