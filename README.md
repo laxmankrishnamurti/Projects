@@ -16,3 +16,4 @@ Fully-functional :-  [lmcSchool](https://www.lmceduhub.in/)
 Note :- This website is hosted on AWS-ec2 instance under free-tier. It will keep hosted until free-tier will not expire.  (Haaaaaaaaaaaaaa........)
 
 ### Original website looks like this :- [OldSite](https://lmcpatna.in/)
+### But i give a new look to the website :- [NewSite](https://www.lmceduhub.in/)
