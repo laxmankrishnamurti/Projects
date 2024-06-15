@@ -1,4 +1,4 @@
-<e><b>Project -01</b></e>
+<strong>Project -01</strong>
 
 # School Project
 Fully-functional :-  [lmcSchool](https://www.lmceduhub.in/)
