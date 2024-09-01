@@ -10,7 +10,7 @@ Fully-functional :-  [lmcSchool](https://www.lmceduhub.in/)
 - Tech-stacks :: 
   - Frontend Technologies :- Vanila(HTML, CSS & JS)
   - Backend Technologies :- Node.js, Express.js(A node.js Framework), Cloudinary(For file handling)
-  - Database :- MongoDB
+  - Database :- NoSQL -> MongoDB
 
 - Deployment details ::
   - Note :- Both frontend and Backend are deployed on different-different platforms.
