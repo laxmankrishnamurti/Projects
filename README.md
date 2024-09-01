@@ -5,11 +5,11 @@
 # School Project
 Fully-functional :-  [lmcSchool](https://www.lmceduhub.in/)
 
-## Some details about the project
+## Get an overview about the project
 
 - Tech-stacks :: 
   - Frontend Technologies :- Vanila(HTML, CSS & JS)
-  - Backend Technologies :- Node.js, Express.js(library), Cloudinary(For file handling)
+  - Backend Technologies :- Node.js, Express.js(A node.js Framework), Cloudinary(For file handling)
   - Database :- MongoDB
 
 - Deployment details ::
