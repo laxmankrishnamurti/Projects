@@ -1,5 +1,5 @@
-/****************\*\*\*****************
-<strong>Project - 01</strong> ******************\*\*\*******************/
+/**\*\***\*\*\*\***\*\***\*\*\***\*\***\*\*\*\***\*\***
+<strong>Project - 01</strong> **\*\*\*\***\*\***\*\*\*\***\*\*\***\*\*\*\***\*\***\*\*\*\***/
 
 # School Project
 
@@ -34,6 +34,23 @@
 
 Note :- This website is hosted on a _AWS-EC2 instance under free-tier_. It will keep hosted until the free-tier will not get expired. (Haaaaaaaaaaaaaa........)
 
+## At a glance
+
+1. **UI**
+
+- ![LMC Official Site](./lmcOfficialSite.png)
+- ![LMC New Site](./lmcNewSite.png)
+
+2. **Snapshot Performance**
+
+- ![LMC Official Site](./officialSitePerformanceChartTwo.png)
+- ![LMC New Site](./newSitePerformanceChartTwo.png)
+
+3. **Lighthouse Performance Result**
+
+- ![LMC Official Site Lighthouse Performance](./officialSitePerformanceChartOne.png)
+- ![LMC New Site Lighthouse Performance](./newSitePerformanceChartOne.png)
+
 ### Official site of the school
 
 - [OldSite](https://lmcpatna.in/)
@@ -42,4 +59,4 @@ Note :- This website is hosted on a _AWS-EC2 instance under free-tier_. It will 
 
 - [NewSite](https://www.lmceduhub.in/)
 
-/******************************************\*\*\*******************************************/
+/**\*\*\*\***\*\*\*\***\*\*\*\***\*\***\*\*\*\***\*\*\*\***\*\*\*\***\*\*\***\*\*\*\***\*\*\*\***\*\*\*\***\*\***\*\*\*\***\*\*\*\***\*\*\*\***/
