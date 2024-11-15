@@ -1,5 +1,7 @@
 # #01 - Transforming a native school website
 
+---
+
 ## **_Tech-stacks_**
 
 - Frontend Technologies
@@ -26,6 +28,8 @@
     - Nginx as a Proxy server
 
 Note :- This website is hosted on a _AWS-EC2 instance under free-tier_. It will keep hosted until the free-tier will not get expired. (Haaaaaaaaaaaaaa........)
+
+---
 
 ## **_At a glance_**
 
