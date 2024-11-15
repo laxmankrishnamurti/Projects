@@ -1,8 +1,6 @@
 # #01 - Transforming a native school website
 
-## Get an overview about the project
-
-## Tech-stacks
+## **_Tech-stacks_**
 
 - Frontend Technologies
 
@@ -29,7 +27,7 @@
 
 Note :- This website is hosted on a _AWS-EC2 instance under free-tier_. It will keep hosted until the free-tier will not get expired. (Haaaaaaaaaaaaaa........)
 
-## At a glance
+## **_At a glance_**
 
 ### 1. **_UI (User Interface)_**
 
