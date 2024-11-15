@@ -1,4 +1,4 @@
-# First :: Transforming a native school website
+# #01 - Transforming a native school website
 
 ## Get an overview about the project
 
