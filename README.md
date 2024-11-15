@@ -34,7 +34,9 @@
 
 Note :- This website is hosted on a _AWS-EC2 instance under free-tier_. It will keep hosted until the free-tier will not get expired.  (Haaaaaaaaaaaaaa........)
 
-### Original website looks like this :- [OldSite](https://lmcpatna.in/)
-### But i give a new look to the website :- [NewSite](https://www.lmceduhub.in/)
+### Official site of the school 
+      - [OldSite](https://lmcpatna.in/)
+### Checkout the new looking website
+      - [NewSite](https://www.lmceduhub.in/)
 
 /***************************************************************************************/
