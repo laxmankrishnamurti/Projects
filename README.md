@@ -36,7 +36,10 @@ Note :- This website is hosted on a _AWS-EC2 instance under free-tier_. It will 
 
 ### 1. **_UI (User Interface)_**
 
+- LMC Official Site
 - ![LMC Official Site](./lmcOfficialSite.png)
+
+- LMC New Site
 - ![LMC New Site](./lmcNewSite.png)
 
 ### 2. **_Snapshot Performance_**
