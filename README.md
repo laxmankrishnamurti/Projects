@@ -3,7 +3,9 @@
 
 
 # School Project
-Fully-functional :-  [lmcSchool](https://www.lmceduhub.in/)
+  
+  - Visit
+      - [lmcSchool](https://www.lmceduhub.in/)
 
 ## Get an overview about the project
 
@@ -16,7 +18,7 @@ Fully-functional :-  [lmcSchool](https://www.lmceduhub.in/)
   - Backend Technologies
       - Node.js
       - Express.js
-      - Cloudinary(For file handling)
+      - Cloudinary (Asset Management)
       
   - Database
     - NoSQL
