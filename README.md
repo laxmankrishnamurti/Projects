@@ -3,26 +3,24 @@
 
 # School Project
 
-- Visit
-  - [lmcSchool](https://www.lmceduhub.in/)
-
 ## Get an overview about the project
 
-- Tech-stacks ::
+## Tech-stacks
 
-  - Frontend Technologies
+- Frontend Technologies
 
-    - HTML
-    - CSS
-    - JavaScript
+  - HTML
+  - CSS
+  - JavaScript
 
-  - Backend Technologies
-    - Node.js
-    - Express.js
-    - Cloudinary (Asset Management)
-  - Database
-    - NoSQL
-      - MongoDB
+- Backend Technologies
+  - Node.js
+  - Express.js
+  - Cloudinary (Asset Management)
+- Database
+
+  - NoSQL
+    - MongoDB
 
 - Deployment details ::
   - Note :- Both Frontend and Backend are deployed on different-different platforms.
@@ -36,27 +34,24 @@ Note :- This website is hosted on a _AWS-EC2 instance under free-tier_. It will 
 
 ## At a glance
 
-1. **UI**
+### 1. **_UI (User Interface)_**
 
 - ![LMC Official Site](./lmcOfficialSite.png)
 - ![LMC New Site](./lmcNewSite.png)
 
-2. **Snapshot Performance**
+### 2. **_Snapshot Performance_**
 
-- ![LMC Official Site](./officialSitePerformanceChartTwo.png)
-- ![LMC New Site](./newSitePerformanceChartTwo.png)
+- ![LMC Official Site Snapshot Performance](./officialSiteSnapshotPerformanceChartTwo.png)
+- ![LMC New Site Snapshot Performance](./newSiteSnapshotPerformanceChartTwo.png)
 
-3. **Lighthouse Performance Result**
+### 3. **_Lighthouse Performance Result_**
 
-- ![LMC Official Site Lighthouse Performance](./officialSitePerformanceChartOne.png)
-- ![LMC New Site Lighthouse Performance](./newSitePerformanceChartOne.png)
+- ![LMC Official Site Lighthouse Performance](./officialSiteLighthousePerformanceChartOne.png)
+- ![LMC New Site Lighthouse Performance](./newSiteLighthousePerformanceChartOne.png)
 
-### Official site of the school
+## Links
 
-- [OldSite](https://lmcpatna.in/)
-
-### Checkout the new website
-
-- [NewSite](https://www.lmceduhub.in/)
+- <a href="https://lmcpatna.in/" target="_blank">Visit the official site</a>
+- <a href="https://www.lmceduhub.in/" target="_blank">Visit the new site</a>
 
 /**\*\*\*\***\*\*\*\***\*\*\*\***\*\***\*\*\*\***\*\*\*\***\*\*\*\***\*\*\***\*\*\*\***\*\*\*\***\*\*\*\***\*\***\*\*\*\***\*\*\*\***\*\*\*\***/
