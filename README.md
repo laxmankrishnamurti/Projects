@@ -35,8 +35,8 @@
 Note :- This website is hosted on a _AWS-EC2 instance under free-tier_. It will keep hosted until the free-tier will not get expired.  (Haaaaaaaaaaaaaa........)
 
 ### Official site of the school 
-      - [OldSite](https://lmcpatna.in/)
+  - [OldSite](https://lmcpatna.in/)
 ### Checkout the new looking website
-      - [NewSite](https://www.lmceduhub.in/)
+  - [NewSite](https://www.lmceduhub.in/)
 
 /***************************************************************************************/
