@@ -1,7 +1,4 @@
-/**\*\***\*\*\*\***\*\***\*\*\***\*\***\*\*\*\***\*\*****\*\*******
-<strong>Project - 01</strong> **\*\*\*\***\*\***\*\*\*\*****\*\*******\*\*\***\*\*\*\***\*\***\*\*\*\***/
-
-# School Project
+# First :: Transforming a native school website
 
 ## Get an overview about the project
 
@@ -63,4 +60,4 @@ Note :- This website is hosted on a _AWS-EC2 instance under free-tier_. It will 
 - <a href="https://lmcpatna.in/" target="_blank">Visit the official site</a>
 - <a href="https://www.lmceduhub.in/" target="_blank">Visit the new site</a>
 
-/**\*\*\*\***\*\*\*\***\*\*\*\***\*\***\*\*\*\***\*\*\*\***\*\*\*\***\*\*\***\*\*\*\***\*\*\*\***\*\*\*\***\*\***\*\*\*\***\*\*\*\***\*\*\*\***/
+---
