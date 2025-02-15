@@ -63,3 +63,7 @@ Note :- This website is hosted on a _AWS-EC2 instance under free-tier_. It will 
 - <a href="https://www.lmceduhub.in/" target="_blank">Visit the new site</a>
 
 ---
+
+# #02 - E-Commerce Site (B2C)
+
+- [Location](https://github.com/laxmankrishnamurti/E-Commerce-Site)
